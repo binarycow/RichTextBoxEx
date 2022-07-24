@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace SampleInputApp;
+namespace RichTextBoxDemo;
 
 public class RichTextBoxEx : RichTextBox
 {

@@ -1,4 +1,4 @@
-namespace SampleInputApp;
+namespace RichTextBoxDemo;
 
 internal static class Program
 {

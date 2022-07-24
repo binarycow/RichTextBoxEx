@@ -1,6 +1,6 @@
 using System.Diagnostics.CodeAnalysis;
 
-namespace SampleInputApp
+namespace RichTextBoxDemo
 {
     public partial class Form1 : Form
     {

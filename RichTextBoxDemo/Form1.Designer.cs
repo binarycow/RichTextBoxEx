@@ -1,4 +1,4 @@
-﻿namespace SampleInputApp
+﻿namespace RichTextBoxDemo
 {
     partial class Form1
     {
@@ -36,7 +36,7 @@
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.readOnly = new System.Windows.Forms.CheckBox();
             this.sampleLabel = new System.Windows.Forms.Label();
-            this.sampleRichTextBox = new SampleInputApp.RichTextBoxEx();
+            this.sampleRichTextBox = new RichTextBoxEx();
             this.selectable = new System.Windows.Forms.CheckBox();
             this.borderStyle = new System.Windows.Forms.ComboBox();
             label1 = new System.Windows.Forms.Label();
@@ -209,7 +209,7 @@
         private System.Windows.Forms.ComboBox borderStyle;
 
         private System.Windows.Forms.Label sampleLabel;
-        private SampleInputApp.RichTextBoxEx sampleRichTextBox;
+        private RichTextBoxEx sampleRichTextBox;
 
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
 
